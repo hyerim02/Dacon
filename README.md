@@ -3,7 +3,7 @@
 ![image](https://user-images.githubusercontent.com/105963819/180909907-de63fb10-20ca-4db6-98c8-0d7cfc3e5c66.png)  
 13등  EllipticEnvelope사용  
 
-![image](https://user-images.githubusercontent.com/105963819/184294817-96411a43-4cf8-4fbc-bafd-0683bde4c97d.png)
+![image](https://github.com/hyerim02/Dacon/assets/105963819/1348972e-118f-45c7-83dc-0ff84ac5c4d3)
 
 
 
